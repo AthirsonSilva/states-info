@@ -1,0 +1,5 @@
+com/example/spinnerpam/BuildConfig.java
+ com.example.spinnerpam.BuildConfig
+com/example/spinnerpam/MainActivity.java
+ com.example.spinnerpam.MainActivity
+ com.example.spinnerpam.MainActivity$1
